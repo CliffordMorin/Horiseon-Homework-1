@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Changed the div class to nav since we are in the navigation bar */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +33,12 @@ body {
     font-size: 20px;
 }
 
+/* Changed the div class to nav since we are in the navigation bar */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Changed the div class to nav since we are in the navigation bar */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -86,24 +89,26 @@ p {
     background-color: #2589bd;
 }
 
-/* Changed class name from 3 seperate class names to .benefits-content */
+/* Changed class name from 3 seperate class names to .benefits-content since they all had the same CSS*/
 .benefits-content {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Changed class name from 3 seperate class names to .benefits-content since they all had the same CSS*/
 .benefits-content h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Changed class name from 3 seperate class names to .benefits-content since they all had the same CSS*/
 .benefits-content img {  
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* Changed class name from 3 seperate class names to .main-content */
+/* Changed class name from 3 seperate class names to .main-content since they all had the same CSS */
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -113,10 +118,12 @@ p {
     color: #ffffff;
 }
 
+/* Changed class name from 3 seperate class names to .main-content since they all had the same CSS */
 .main-content img {
     max-height: 200px;
 }
 
+/* Changed class name from 3 seperate class names to .main-content since they all had the same CSS */
 .main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
